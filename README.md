@@ -1,3 +1,8 @@
+# No longer maintained
+
+Now that Terraform has built-in support for multiple environments starting in version 0.9.0 this utility is no longer needed.
+
+
 # Terraflow
 
 Terraflow is a python utility that makes it easy to manage multiple environments with Terraform. This tool is ideal for running the following Terraform commands `plan, apply, output, destroy`. It does not intend to be the penultimate terraform wrapper. It specifically aims just makes managing multiple environments easier.
